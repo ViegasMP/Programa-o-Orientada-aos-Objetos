@@ -1,5 +1,5 @@
 # Programa-o-Orientada-aos-Objetos
-#Descrição do Problema
+# Descrição do Problema
 Os alunos do DEI pretendem organizar uma viagem de estudo e querem desenvolver uma aplicação de suporte ao planeamento da viagem. A viagem deve contemplar 3 locais, cada um com vários pontos de interesse.
 
 Os locais a visitar são caraterizados pelo nome da cidade onde estão situados. Cada local pode ter um ou mais pontos de interesse, incluindo universidades, museus, parques e bares. As universidades são caracterizadas pelo nome e lista de cursos relacionados com Engenharia Informática. Os museus, além do nome, possuem a descrição da sua temática (por exemplo, história natural, arte moderna, ou aviação). Os parques podem ser culturais ou de diversões (por exemplo, parques aquáticos). Os parques aquáticos possuem várias piscinas e equipamentos (por exemplo escorregas) e podem ou não possuir espetáculos de animais. Os bares são caraterizados pela classificação média dada pelos clientes. Todos os pontos de interesse possuem um horário de funcionamento. Alguns pontos de interesse têm custos de entrada associados. Também podem existir outras despesas, como por exemplo a entrada em espetáculos ou o consumo de bebidas.
