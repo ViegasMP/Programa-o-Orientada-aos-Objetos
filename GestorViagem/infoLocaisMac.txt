@@ -1,0 +1,160 @@
+Lisboa
+Museu: MAAT
+11,19,3,5,arte contemporânea
+Bar: Sky Bar
+17,1,2,20,4
+Universidade: Universidade de Lisboa
+9,22,1,Tecnologias de Informacao,Ensino de Informatica,Informatica,Segurança Informatica
+------------------------------------------------------------------ 
+Madrid
+Bar: Vi Cool
+20,0,2,25,4
+Parque Diversoes: Parque Warner Madrid
+11,21,2,26,Hotel Embrujado,Zé Colmeia,Cadeiras voadoras de MR.FREEZE,Os Carros de Choque de O JOKER
+Parque Cultural: Las Ventas 
+10,17,6,15,Las Ventanas Tour
+-----------------------------------------------------------------
+Paris
+Museu: Museu de Orsay
+9,18,2,12,pinturas e esculturas da arte ocidental do período compreendido entre 1848 e 1914
+Universidade: La Sorbonne
+9,23,3,cursos
+Parque Diversoes: Parc Asterix
+10,20,1,49,Tonnerre de Zeus,Enigmatix,OzIris,Le Transdemonium
+------------------------------------------------------------------
+Londres
+Museu: Victoria and Albert Museum 
+10,17,6,0,arte e design
+Bar: Hard Rock Cafe London
+11,1,0,36,4
+Parque Cultural: Reagent's Park
+5,21,0,0,teatros ao ar livre
+------------------------------------------------------------------ 
+Amsterdão
+Museu: Museu Van Gogh
+9,17,2,18,arte e vida de pintor mundialmente conhecido
+Bar: Café Gollem’s Proeflokaal
+13,1,0,17,4
+Parque Diversoes: Powerzone Laser Tag Experience
+12,0,0,22,laser tag
+------------------------------------------------------------------
+Bruxelas
+Museu: Brussels Museum of Cocoa and Chocolate
+10,16,2,6,museu especializado em chocolate
+Universidade: Vrije Universiteit Brussel
+8,20,1,Tecnologias de Informacao,Ensino de Informatica,Informatica,AI
+Parque Diversoes: Mini-Europa
+10,18,0,16,miniaturas de cidades
+------------------------------------------------------------------
+Zurique
+Bar: Marktküche
+17,23,2,69,4
+Universidade: ETH Zurich
+8,20,1,Tecnologias de Informacao,Ensino de Informatica,Informatica,Segurança de redes
+Parque Cultural: Parque Natural Zurique
+8,8,0,6,trilhas para apreciar flora suíça 
+------------------------------------------------------------------
+Roma
+Museu: Museo Storico della Liberazione
+10,19,2,0,antiga prisão nazista 
+Bar: Ice Club
+17,1,0,15,4
+Parque Aquatico: Hydromania
+9,19,0,24,mini club/piscina de onda,5,toboga/jacuzzi,false
+------------------------------------------------------------------
+Berlim
+Museu: DDR Museum
+10,20,0,5,museu que mostra o estilo de vida comunista na Alemanha Oriental
+Bar: Deck 5 Skybeach
+15,22,0,6,4
+Parque Diversoes: Legoland
+10,19,0,19,cinema 4D,playground,construção de legos
+------------------------------------------------------------------
+Viena
+Museu: Mozarthaus Vienna
+10,19,0,11,vida e obra do renomado compositor Mozart
+Bar: Jazzland
+19,4,1,15,4
+Parque Diversoes: Wiener Prater
+10,1,0,4,carrossel,roda gigante,monha russa
+------------------------------------------------------------------
+Brasilia
+Museu: Memorial JK
+9,18,1,2,30,historia local
+Bar: Os Simpsons
+12,4,1,9,3
+Parque Cultural: CCBB
+9,21,2,0,CLASSICISMO REALISMO VANGUARDA: PINTURA ITALIANA NO ENTREGUERRAS,ACORDE! O CINEMA DE SPIKE LEE,CANDIDO DE FARIA – UM BRASILEIRO EM PARIS
+------------------------------------------------------------------
+Buenos Aires
+Museu: Museo Evita
+11,19,2,5,historia da vida de Evita Peron
+Bar: Hard Rock Cafe Buenos Aires
+12,1,0,13,4
+Universidade: UBA
+8,20,1,Tecnologias de Informacao,Ensino de Informatica,Informatica
+------------------------------------------------------------------
+Lima
+Museu: Museu de Arte de Lima
+10,19,2,8,arquitetura,arte pré-colombiana,arte contemporânea peruana
+Bar: Sukha Buda Lounge
+18,1,3,10,4
+Parque Cultural: Parque Kennedy
+9,19,0,0,pinturas de artistas locais,musica ao vivo
+------------------------------------------------------------------
+Santiago
+Museu: Museo Interactivo Mirador
+10,19,2,5,interativo, ciencias
+Bar: Ruca Bar
+18,1,1,10,4,4,10
+Parque Aquatico: Thermas Internacional
+9,19,4,5,piscina aquecida/piscina de ondas/bar aquatico,10,toboga/castelo/playground,false
+------------------------------------------------------------------
+Montevideu
+Bar: Bar Fun Fun
+20,2,1,8,4
+Parque Diversoes: Summit Trampoline Park
+10,21,0,9,trampolins,baleado,basquete
+Parque Cultural: Parque Rodó
+8,20,0,0,lago com pedalinhos,biblioteca infantil,Museu de Artes Visuais
+------------------------------------------------------------------
+Cairo
+Museu: Museu Egípcio
+9,17,2,10,historia da cultura egipcia
+Bar: The Tap Maadi
+17,2,0,5,4
+Universidade: Cairo University
+8,20,1,Computer Networks,Machine Intelligence,Computational Intelligence
+------------------------------------------------------------------
+Ancara
+Museu: Anitkabir
+9,17,5,0,mausoleu
+Bar: Nefes Bar
+12,4,0,11,4
+Universidade: Universidade de Ancara
+8,20,1,Comparative Computer Architectures,AI,Mobile Operating Systems 
+------------------------------------------------------------------
+Santorini
+Museu: Archaeological Museum of Thera
+8,15,2,2,arqueologico
+Bar: Stoa Santorini
+9,4,0,11,5
+Parque Cultural: Hiking Trail Fira 
+0,0,0,0,trilhas
+------------------------------------------------------------------
+Riade
+Museu: The National Museum
+12,20,0,3,historia da cultura saudita
+Universidade: King Saud University
+8,20,1,Tecnologias de Informacao,Ensino de Informatica,Informatica,Segurança de redes
+Parque Diversoes: Al Hokair Land
+16,0,0,15,montanha russa,playground
+------------------------------------------------------------------
+Jerusalem
+Museu: Museu de Israel
+10,17,7,10,historia local
+Bar: Hataklit Bar
+17,4,0,8,5
+Universidade: Universidade Hebraica de Jerusalém
+8,20,1,Ensino de Informatica,Informatica,Segurança Informatica
+------------------------------------------------------------------
